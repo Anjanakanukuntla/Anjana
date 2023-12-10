@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="portweb.css">
+</head>
+<body>
+    <!-- Page 1 -->
+    <section class="page1">
+        <div class="container">
+            <div class="profile">
+                <img src="portpic.jpg" alt="My Picture">
+                <h1>About Me</h1>
+                <p>Hi, I'm Kanukuntla Anjana. I'm a passionate web developer
+                   with a keen eye for design and a flair for creating digital experiences.
+                   With a strong foundation in front end & back end technologies.
+                </p>
+            </div>
+            <div class="contact">
+                <h2>Contact Details</h2>
+                <ul>
+                    <li>Email: 21211a04b5@bvrit.ac.in</li> 
+                    <li>Phone: 7569603735</li>
+                    <li>Address: Gajwel</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Page 2 -->
+    <section class="page2">
+        <div class="container">
+            <div class="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>Java</li>
+                    <li>C language</li>
+                    <li>Python</li>
+                    <li>HTML,CSS,Java script</li>
+                </ul>
+            </div>
+            <div class="achievements">
+                <h2>Achievements</h2>
+                <ul>
+                    <li>-Empowering Girls on Cloud Tech
+                        AWS Cloud Practitioner Essentials</li>
+                    <li>-Digital VLSI System Design using
+                        verilog HDL</li>
+                </ul>
+            </div>
+            <div class="projects">
+                <h2>Projects</h2>
+                <ul>
+                    <li>Case Study Of Partial Re-Configuration Using FPGA-Verilog HDL</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
